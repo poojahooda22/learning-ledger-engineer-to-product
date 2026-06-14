@@ -4,4 +4,5 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-14 | Uber | Surge pricing | [report](product-teardowns/2026-06-14-uber-surge-pricing.md) |
 | 2026-06-13 | Spotify | Discover Weekly | [report](reports/2026-06-13-spotify-discover-weekly.md) |

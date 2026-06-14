@@ -15,8 +15,11 @@ file and `_history.md` before doing anything.
    Notion, Figma, WhatsApp, Uber, Instagram, Canva, Zepto, Swiggy, Zomato, Rapido.
 4. Research with REAL primary sources (engineering blogs, GitHub repos, conference
    talks, papers). Separate fact from inference and label inference clearly.
-5. Write the report to `reports/YYYY-MM-DD-product-feature.md` using the fixed
-   framework below.
+5. Write the report to `product-teardowns/YYYY-MM-DD-product-feature.md` using the
+   fixed framework below. As of 2026-06-14 every new teardown lives in
+   `product-teardowns/` (the dedicated folder the user asked for). The older
+   `reports/` folder still holds the 2026-06-13 Spotify report; leave it in place,
+   do not move it, just keep its index link working.
 6. Append one line to `_history.md` (date, product, feature, one-line insight).
 7. Add the new entry to the TOP of `_index.md` (newest first).
 8. Save keeper links under `references/`.
