@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-17 | Zepto | Dark-store inventory and order routing | [report](product-teardowns/2026-06-17-zepto-dark-store-inventory-routing.md) |
 | 2026-06-16 | Google Search | Autocomplete (query suggestions / typeahead) | [report](product-teardowns/2026-06-16-google-search-autocomplete.md) |
 | 2026-06-15 | WhatsApp | Delivery receipts (the ticks) | [report](product-teardowns/2026-06-15-whatsapp-delivery-receipts.md) |
 | 2026-06-14 | Uber | Surge pricing | [report](product-teardowns/2026-06-14-uber-surge-pricing.md) |
