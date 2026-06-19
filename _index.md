@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-19 | Netflix | Personalized artwork (per-member thumbnails) | [report](product-teardowns/2026-06-19-netflix-artwork-personalization.md) |
 | 2026-06-18 | Figma | Multiplayer cursors and live presence | [report](product-teardowns/2026-06-18-figma-multiplayer-cursors.md) |
 | 2026-06-17 | Zepto | Dark-store inventory and order routing | [report](product-teardowns/2026-06-17-zepto-dark-store-inventory-routing.md) |
 | 2026-06-16 | Google Search | Autocomplete (query suggestions / typeahead) | [report](product-teardowns/2026-06-16-google-search-autocomplete.md) |
