@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-21 | Gmail | Smart Compose (inline sentence completion) | [report](product-teardowns/2026-06-21-gmail-smart-compose.md) |
 | 2026-06-20 | Stripe | Idempotency keys | [report](product-teardowns/2026-06-20-stripe-idempotency-keys.md) |
 | 2026-06-19 | Netflix | Personalized artwork (per-member thumbnails) | [report](product-teardowns/2026-06-19-netflix-artwork-personalization.md) |
 | 2026-06-18 | Figma | Multiplayer cursors and live presence | [report](product-teardowns/2026-06-18-figma-multiplayer-cursors.md) |
