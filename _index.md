@@ -20,6 +20,27 @@ All product teardowns, newest first.
 
 ---
 
+# System Design Lessons
+
+Daily system-design lessons, newest first.
+
+| Day | Date | Topic | Lesson |
+|-----|------|-------|--------|
+| 14 | 2026-06-25 | Multi-region active-active: writes from every continent | [lesson](lessons/014-multi-region-active-active.md) |
+| 13 | 2026-06-24 | Backpressure and load shedding | [lesson](lessons/013-backpressure-load-shedding.md) |
+| 12 | 2026-06-23 | Idempotency and exactly-once delivery | [lesson](lessons/012-idempotency-exactly-once.md) |
+| 11 | 2026-06-22 | Consensus and Raft | [lesson](lessons/011-consensus-raft.md) |
+| 10 | 2026-06-21 | Consistent hashing and sharding | [lesson](lessons/010-consistent-hashing-sharding.md) |
+| 9 | 2026-06-20 | Queue as shock absorber | [lesson](lessons/009-queue-as-shock-absorber.md) |
+| 8 | 2026-06-19 | Rate limiting | [lesson](lessons/008-rate-limiting.md) |
+| 7 | 2026-06-18 | Feed ranking at scale | [lesson](lessons/007-feed-ranking-at-scale.md) |
+| 6 | 2026-06-17 | Stripe correctness under load | [lesson](lessons/006-stripe-correctness-under-load.md) |
+| 5 | 2026-06-16 | YouTube video storage and streaming | [lesson](lessons/005-youtube-video-storage-streaming.md) |
+| 4 | 2026-06-15 | CDN zero origin egress | [lesson](lessons/004-cdn-zero-origin-egress.md) |
+| 3 | 2026-06-14 | Figma real-time multiplayer | [lesson](lessons/003-figma-realtime-multiplayer.md) |
+
+---
+
 # Daily Viral Tech Reports
 
 Engineering intelligence briefings, newest first.
