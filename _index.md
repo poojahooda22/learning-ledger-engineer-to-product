@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-25 | Notion | The "/" slash command (and the block model) | [report](product-teardowns/2026-06-25-notion-slash-command-block-model.md) |
 | 2026-06-24 | Swiggy | Live order tracking (the moving rider and the ETA timer) | [report](product-teardowns/2026-06-24-swiggy-live-order-tracking.md) |
 | 2026-06-23 | Amazon | Product search ranking (the results page) | [report](product-teardowns/2026-06-23-amazon-product-search-ranking.md) |
 | 2026-06-22 | YouTube | Recommendations (home feed and "watch next") | [report](product-teardowns/2026-06-22-youtube-recommendations.md) |
