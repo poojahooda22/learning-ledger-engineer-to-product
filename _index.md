@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-06-30 | Netflix | Adaptive bitrate streaming (per-title/per-shot encoding + client ABR) | [report](product-teardowns/2026-06-30-netflix-adaptive-bitrate-streaming.md) |
 | 2026-06-29 | Zomato | Food Preparation Time (KPT/FPT) prediction | [report](product-teardowns/2026-06-29-zomato-food-prep-time.md) |
 | 2026-06-28 | Canva | Template search and ranking (the search box) | [report](product-teardowns/2026-06-28-canva-templates.md) |
 | 2026-06-27 | Instagram | Stories tray ranking and 24-hour expiry | [report](product-teardowns/2026-06-27-instagram-stories-tray-ranking.md) |
