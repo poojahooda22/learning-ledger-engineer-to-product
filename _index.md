@@ -32,6 +32,12 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 20 | 2026-07-01 | Distributed transactions across shards: 2PC vs sagas vs TrueTime | [lesson](lessons/020-distributed-transactions-2pc-vs-sagas.md) |
+| 19 | 2026-06-30 | Caching strategies and invalidation (stampede prevention) | [lesson](lessons/019-caching-strategies-invalidation.md) |
+| 18 | 2026-06-29 | Search ranking internals | [lesson](lessons/018-search-ranking-internals.md) |
+| 17 | 2026-06-28 | Write-ahead logs and change data capture | [lesson](lessons/017-wal-and-change-data-capture.md) |
+| 16 | 2026-06-27 | The hot-key / celebrity problem | [lesson](lessons/016-hot-key-celebrity-problem.md) |
+| 15 | 2026-06-26 | CRDTs for collaborative editing | [lesson](lessons/015-crdts-collaborative-editing.md) |
 | 14 | 2026-06-25 | Multi-region active-active: writes from every continent | [lesson](lessons/014-multi-region-active-active.md) |
 | 13 | 2026-06-24 | Backpressure and load shedding | [lesson](lessons/013-backpressure-load-shedding.md) |
 | 12 | 2026-06-23 | Idempotency and exactly-once delivery | [lesson](lessons/012-idempotency-exactly-once.md) |
