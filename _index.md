@@ -33,6 +33,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 21 | 2026-07-02 | Write-optimized storage engines: LSM-trees, memtables, SSTables, compaction | [lesson](lessons/021-lsm-trees-write-optimized-storage.md) |
 | 20 | 2026-07-01 | Distributed transactions across shards: 2PC vs sagas vs TrueTime | [lesson](lessons/020-distributed-transactions-2pc-vs-sagas.md) |
 | 19 | 2026-06-30 | Caching strategies and invalidation (stampede prevention) | [lesson](lessons/019-caching-strategies-invalidation.md) |
 | 18 | 2026-06-29 | Search ranking internals | [lesson](lessons/018-search-ranking-internals.md) |
