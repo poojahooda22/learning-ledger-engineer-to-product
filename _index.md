@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-05 | Google Search | Spell correction ("Did you mean" / "Showing results for") | [report](product-teardowns/2026-07-05-google-search-spell-correction.md) |
 | 2026-07-04 | Stripe | Radar real-time card-fraud risk scoring (during a charge) | [report](product-teardowns/2026-07-04-stripe-radar-fraud-scoring.md) |
 | 2026-07-03 | Rapido | Turn-by-turn navigation for the captain (the routing engine) | [report](product-teardowns/2026-07-03-rapido-turn-by-turn-navigation.md) |
 | 2026-07-02 | Uber | Batched matching / dispatch (DISCO) | [report](product-teardowns/2026-07-02-uber-batched-matching-dispatch.md) |
