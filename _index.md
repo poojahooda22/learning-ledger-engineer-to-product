@@ -37,6 +37,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 24 | 2026-07-06 | Distributed locks, leases, and fencing tokens: Chubby, ZooKeeper/HBase, and the Redlock debate | [lesson](lessons/024-distributed-locks-fencing-tokens.md) |
 | 23 | 2026-07-06 | Content-addressed storage: Git's object model, Merkle DAGs, dedup, garbage collection by reachability | [lesson](lessons/023-content-addressed-storage-merkle-dags.md) |
 | 22 | 2026-07-04 | Leaderless replication: quorums, vector clocks, sibling reconciliation, Merkle-tree anti-entropy | [lesson](lessons/022-leaderless-replication-quorums-vector-clocks.md) |
 | 21 | 2026-07-02 | Write-optimized storage engines: LSM-trees, memtables, SSTables, compaction | [lesson](lessons/021-lsm-trees-write-optimized-storage.md) |
