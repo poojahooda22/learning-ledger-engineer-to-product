@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-08 | YouTube | Content ID (copyright fingerprint matching on every upload) | [report](product-teardowns/2026-07-08-youtube-content-id.md) |
 | 2026-07-07 | Spotify | Instant playback and streaming (cache, P2P overlay, CDN) | [report](product-teardowns/2026-07-07-spotify-instant-playback-streaming.md) |
 | 2026-07-06 | Amazon | 1-Click ordering (Buy Now, no cart, no checkout) | [report](product-teardowns/2026-07-06-amazon-1-click-ordering.md) |
 | 2026-07-05 | Google Search | Spell correction ("Did you mean" / "Showing results for") | [report](product-teardowns/2026-07-05-google-search-spell-correction.md) |
