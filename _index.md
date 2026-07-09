@@ -40,6 +40,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 27 | 2026-07-09 | External consistency in global databases: Spanner's TrueTime and commit-wait vs CockroachDB's Hybrid Logical Clocks | [lesson](lessons/027-truetime-spanner-external-consistency.md) |
 | 26 | 2026-07-08 | Distributed unique ID generation: Twitter Snowflake vs Instagram's in-database composite IDs, vs UUIDv4 and auto-increment | [lesson](lessons/026-distributed-id-generation-snowflake.md) |
 | 25 | 2026-07-07 | Gossip protocols and failure detection: SWIM, phi-accrual, epidemic dissemination at 10,000+ nodes | [lesson](lessons/025-gossip-protocols-failure-detection.md) |
 | 24 | 2026-07-06 | Distributed locks, leases, and fencing tokens: Chubby, ZooKeeper/HBase, and the Redlock debate | [lesson](lessons/024-distributed-locks-fencing-tokens.md) |
