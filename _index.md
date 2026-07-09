@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-09 | Figma | Canvas rendering engine (WebGL/WebGPU tile renderer, C++ to WebAssembly) | [report](product-teardowns/2026-07-09-figma-canvas-rendering-engine.md) |
 | 2026-07-08 | YouTube | Content ID (copyright fingerprint matching on every upload) | [report](product-teardowns/2026-07-08-youtube-content-id.md) |
 | 2026-07-07 | Spotify | Instant playback and streaming (cache, P2P overlay, CDN) | [report](product-teardowns/2026-07-07-spotify-instant-playback-streaming.md) |
 | 2026-07-06 | Amazon | 1-Click ordering (Buy Now, no cart, no checkout) | [report](product-teardowns/2026-07-06-amazon-1-click-ordering.md) |
