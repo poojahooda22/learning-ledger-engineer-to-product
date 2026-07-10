@@ -41,6 +41,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 28 | 2026-07-10 | Probabilistic data structures at scale: Bloom filters (Google Safe Browsing), HyperLogLog (cardinality estimation), Count-Min Sketch (streaming heavy hitters) | [lesson](lessons/028-probabilistic-data-structures-bloom-hyperloglog-cms.md) |
 | 27 | 2026-07-09 | External consistency in global databases: Spanner's TrueTime and commit-wait vs CockroachDB's Hybrid Logical Clocks | [lesson](lessons/027-truetime-spanner-external-consistency.md) |
 | 26 | 2026-07-08 | Distributed unique ID generation: Twitter Snowflake vs Instagram's in-database composite IDs, vs UUIDv4 and auto-increment | [lesson](lessons/026-distributed-id-generation-snowflake.md) |
 | 25 | 2026-07-07 | Gossip protocols and failure detection: SWIM, phi-accrual, epidemic dissemination at 10,000+ nodes | [lesson](lessons/025-gossip-protocols-failure-detection.md) |
