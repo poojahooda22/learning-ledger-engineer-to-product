@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-11 | Instagram | Photo storage and delivery (Haystack + f4 + CDN) | [report](product-teardowns/2026-07-11-instagram-photo-storage-haystack-f4.md) |
 | 2026-07-10 | Gmail | Spam filtering (Spam folder, reputation, ML classifier + RETVec) | [report](product-teardowns/2026-07-10-gmail-spam-filtering.md) |
 | 2026-07-09 | Figma | Canvas rendering engine (WebGL/WebGPU tile renderer, C++ to WebAssembly) | [report](product-teardowns/2026-07-09-figma-canvas-rendering-engine.md) |
 | 2026-07-08 | YouTube | Content ID (copyright fingerprint matching on every upload) | [report](product-teardowns/2026-07-08-youtube-content-id.md) |
