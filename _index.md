@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-12 | Amazon | Item-to-item collaborative filtering ("Customers who bought this also bought") | [report](product-teardowns/2026-07-12-amazon-item-to-item-collaborative-filtering.md) |
 | 2026-07-11 | Instagram | Photo storage and delivery (Haystack + f4 + CDN) | [report](product-teardowns/2026-07-11-instagram-photo-storage-haystack-f4.md) |
 | 2026-07-10 | Gmail | Spam filtering (Spam folder, reputation, ML classifier + RETVec) | [report](product-teardowns/2026-07-10-gmail-spam-filtering.md) |
 | 2026-07-09 | Figma | Canvas rendering engine (WebGL/WebGPU tile renderer, C++ to WebAssembly) | [report](product-teardowns/2026-07-09-figma-canvas-rendering-engine.md) |
