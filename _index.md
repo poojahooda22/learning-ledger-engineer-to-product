@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-17 | YouTube | Upload transcoding pipeline (chunked parallel encoding + the Argos VCU chip) | [report](product-teardowns/2026-07-17-youtube-video-transcoding-pipeline.md) |
 | 2026-07-16 | Notion | Offline mode and the sync/conflict engine ("Available offline" + CRDT data model) | [report](product-teardowns/2026-07-16-notion-offline-sync-crdt.md) |
 | 2026-07-15 | Uber | Trip and pickup ETA prediction (routing engine + DeeprETA correction) | [report](product-teardowns/2026-07-15-uber-eta-prediction-deepreta.md) |
 | 2026-07-13 | Netflix | Open Connect (private CDN, proactive fill, play-time steering) | [report](product-teardowns/2026-07-13-netflix-open-connect-cdn.md) |
