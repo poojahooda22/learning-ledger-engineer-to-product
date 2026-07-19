@@ -49,6 +49,13 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 36 | 2026-07-19 | Facebook TAO: the social graph store built because a key-value cache can't represent a growing edge list without invalidating the whole thing on every write | [lesson](lessons/036-tao-facebook-social-graph-store.md) |
+| 35 | 2026-07-18 | Zanzibar: Google's global ReBAC authorization system, answering 10M+ permission checks/sec over 2T+ stored edges at sub-10ms p95 | [lesson](lessons/035-zanzibar-global-authorization.md) |
+| 34 | 2026-07-17 | Cell-based architecture and shuffle sharding: bounding blast radius so one bad thread, customer, or deploy can't take everyone down at once | [lesson](lessons/034-cell-based-architecture-shuffle-sharding.md) |
+| 33 | 2026-07-15 | Vector search at scale: approximate nearest neighbor search over a billion embeddings via IVF, product quantization, and HNSW graphs | [lesson](lessons/033-vector-search-ann-at-scale.md) |
+| 32 | 2026-07-14 | Erasure coding for durable storage: Reed-Solomon striping vs 3x replication, how Facebook stores tens of petabytes of photos cheaply | [lesson](lessons/032-erasure-coding-durable-storage.md) |
+| 31 | 2026-07-13 | Session guarantees and causal consistency: read-your-writes and monotonic reads when the next read can land on a replica that hasn't heard about the write yet | [lesson](lessons/031-session-guarantees-causal-consistency.md) |
+| 30 | 2026-07-12 | Byzantine fault tolerance: PBFT's O(n^2) message wall and HotStuff's linear, chained-signature fix | [lesson](lessons/030-byzantine-fault-tolerance-pbft-hotstuff.md) |
 | 29 | 2026-07-11 | Write skew and Serializable Snapshot Isolation: why write-write conflict checks miss invariants that span two rows, via Berenson et al.'s 1995 paper, PostgreSQL 9.1's SSI, and CockroachDB's on-call-doctors example | [lesson](lessons/029-write-skew-serializable-snapshot-isolation.md) |
 | 28 | 2026-07-10 | Probabilistic data structures at scale: Bloom filters (Google Safe Browsing), HyperLogLog (cardinality estimation), Count-Min Sketch (streaming heavy hitters) | [lesson](lessons/028-probabilistic-data-structures-bloom-hyperloglog-cms.md) |
 | 27 | 2026-07-09 | External consistency in global databases: Spanner's TrueTime and commit-wait vs CockroachDB's Hybrid Logical Clocks | [lesson](lessons/027-truetime-spanner-external-consistency.md) |
