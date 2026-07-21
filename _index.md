@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-21 | Spotify | Wrapped (annual year-in-music recap + the batch data pipeline) | [report](product-teardowns/2026-07-21-spotify-wrapped-data-pipeline.md) |
 | 2026-07-20 | Instagram | Explore page recommender (candidate generation + multi-stage ranking) | [report](product-teardowns/2026-07-20-instagram-explore-recommendations.md) |
 | 2026-07-19 | Swiggy | Search and ranking (the search box: autocomplete, retrieval, ranking) | [report](product-teardowns/2026-07-19-swiggy-search-ranking.md) |
 | 2026-07-18 | Google Search | PageRank and the web link graph (query-independent quality score) | [report](product-teardowns/2026-07-18-google-search-pagerank.md) |
