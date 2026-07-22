@@ -52,6 +52,8 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 38 | 2026-07-22 | Distributed schedulers: how Borg and Kubernetes bin-pack hundreds of thousands of jobs onto tens of thousands of machines, filter/score, equivalence-class caching, priority preemption, oversubscription | [lesson](lessons/038-distributed-schedulers-borg-kubernetes.md) |
+| 37 | 2026-07-20 | Durable execution and workflow orchestration: how Uber Cadence/Temporal keep a multi-day business process correct across guaranteed host crashes via event-sourced replay and per-shard serialization | [lesson](lessons/037-durable-execution-workflow-orchestration.md) |
 | 36 | 2026-07-19 | Facebook TAO: the social graph store built because a key-value cache can't represent a growing edge list without invalidating the whole thing on every write | [lesson](lessons/036-tao-facebook-social-graph-store.md) |
 | 35 | 2026-07-18 | Zanzibar: Google's global ReBAC authorization system, answering 10M+ permission checks/sec over 2T+ stored edges at sub-10ms p95 | [lesson](lessons/035-zanzibar-global-authorization.md) |
 | 34 | 2026-07-17 | Cell-based architecture and shuffle sharding: bounding blast radius so one bad thread, customer, or deploy can't take everyone down at once | [lesson](lessons/034-cell-based-architecture-shuffle-sharding.md) |
