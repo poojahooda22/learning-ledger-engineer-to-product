@@ -53,6 +53,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 39 | 2026-07-23 | Distributed tracing and sampling at scale: Dapper's adaptive rate-based sampling, Jaeger's context propagation and tail-based sampling, why the observability path must never block the request it's observing | [lesson](lessons/039-distributed-tracing-sampling-at-scale.md) |
 | 38 | 2026-07-22 | Distributed schedulers: how Borg and Kubernetes bin-pack hundreds of thousands of jobs onto tens of thousands of machines, filter/score, equivalence-class caching, priority preemption, oversubscription | [lesson](lessons/038-distributed-schedulers-borg-kubernetes.md) |
 | 37 | 2026-07-20 | Durable execution and workflow orchestration: how Uber Cadence/Temporal keep a multi-day business process correct across guaranteed host crashes via event-sourced replay and per-shard serialization | [lesson](lessons/037-durable-execution-workflow-orchestration.md) |
 | 36 | 2026-07-19 | Facebook TAO: the social graph store built because a key-value cache can't represent a growing edge list without invalidating the whole thing on every write | [lesson](lessons/036-tao-facebook-social-graph-store.md) |
