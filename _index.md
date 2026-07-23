@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-23 | Stripe | Balance, funds availability, and payouts (the money-movement ledger underneath) | [report](product-teardowns/2026-07-23-stripe-balance-payouts-ledger.md) |
 | 2026-07-22 | Zomato | Order batching and delivery-partner assignment (the dispatch engine that clubs orders) | [report](product-teardowns/2026-07-22-zomato-order-batching-dispatch.md) |
 | 2026-07-21 | Spotify | Wrapped (annual year-in-music recap + the batch data pipeline) | [report](product-teardowns/2026-07-21-spotify-wrapped-data-pipeline.md) |
 | 2026-07-20 | Instagram | Explore page recommender (candidate generation + multi-stage ranking) | [report](product-teardowns/2026-07-20-instagram-explore-recommendations.md) |
