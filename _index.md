@@ -98,6 +98,11 @@ Engineering intelligence briefings, newest first.
 
 | Date | Report |
 |------|--------|
+| 2026-07-23 | [Daily Viral Tech Report](daily-tech-reports/2026-07-23-daily-viral-tech-report.md) |
+| 2026-07-22 | [Daily Viral Tech Report](daily-tech-reports/2026-07-22-daily-viral-tech-report.md) |
+| 2026-07-21 | [Daily Viral Tech Report](daily-tech-reports/2026-07-21-daily-viral-tech-report.md) |
+| 2026-07-20 | [Daily Viral Tech Report](daily-tech-reports/2026-07-20-daily-viral-tech-report.md) |
+| 2026-07-19 | [Daily Viral Tech Report](daily-tech-reports/2026-07-19-daily-viral-tech-report.md) |
 | 2026-07-18 | [Daily Viral Tech Report](daily-tech-reports/2026-07-18-daily-viral-tech-report.md) |
 | 2026-07-17 | [Daily Viral Tech Report](daily-tech-reports/2026-07-17-daily-viral-tech-report.md) |
 | 2026-07-15 | [Daily Viral Tech Report](daily-tech-reports/2026-07-15-daily-viral-tech-report.md) |
