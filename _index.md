@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-26 | WhatsApp | Voice and video calling (call setup, the relay, encrypted media, the codec) | [report](product-teardowns/2026-07-26-whatsapp-voice-video-calling.md) |
 | 2026-07-25 | Amazon | Delivery date promise (the "Get it by" date, countdown timer, Promised Delivery Date) | [report](product-teardowns/2026-07-25-amazon-delivery-date-promise.md) |
 | 2026-07-24 | Gmail | Priority Inbox (automatic importance ranking, the yellow marker) | [report](product-teardowns/2026-07-24-gmail-priority-inbox.md) |
 | 2026-07-23 | Stripe | Balance, funds availability, and payouts (the money-movement ledger underneath) | [report](product-teardowns/2026-07-23-stripe-balance-payouts-ledger.md) |
