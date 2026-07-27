@@ -57,6 +57,8 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 41 | 2026-07-27 | Distributed file systems: how Google split GFS's single metadata master into Colossus's sharded curators (backed by Bigtable) to scale storage 100x past the largest GFS clusters, chunk leases, D servers, custodians, and flash/disk tiering | [lesson](lessons/041-distributed-file-systems-gfs-colossus.md) |
+| 40 | 2026-07-24 | Stream processing exactly-once semantics: Alibaba's Flink dashboards at 583,000 orders/sec, Chandy-Lamport checkpoint barriers, watermarks for out-of-order event time, and why aligned checkpoints stall under backpressure | [lesson](lessons/040-stream-processing-exactly-once-watermarks.md) |
 | 39 | 2026-07-23 | Distributed tracing and sampling at scale: Dapper's adaptive rate-based sampling, Jaeger's context propagation and tail-based sampling, why the observability path must never block the request it's observing | [lesson](lessons/039-distributed-tracing-sampling-at-scale.md) |
 | 38 | 2026-07-22 | Distributed schedulers: how Borg and Kubernetes bin-pack hundreds of thousands of jobs onto tens of thousands of machines, filter/score, equivalence-class caching, priority preemption, oversubscription | [lesson](lessons/038-distributed-schedulers-borg-kubernetes.md) |
 | 37 | 2026-07-20 | Durable execution and workflow orchestration: how Uber Cadence/Temporal keep a multi-day business process correct across guaranteed host crashes via event-sourced replay and per-shard serialization | [lesson](lessons/037-durable-execution-workflow-orchestration.md) |
