@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-28 | Amazon | Shopping cart (the "Add to Cart" button and the always-available Dynamo store underneath) | [report](product-teardowns/2026-07-28-amazon-shopping-cart-dynamo.md) |
 | 2026-07-27 | Netflix | Continue Watching row and cross-device resume (viewing-history + bookmark engine) | [report](product-teardowns/2026-07-27-netflix-continue-watching.md) |
 | 2026-07-26 | WhatsApp | Voice and video calling (call setup, the relay, encrypted media, the codec) | [report](product-teardowns/2026-07-26-whatsapp-voice-video-calling.md) |
 | 2026-07-25 | Amazon | Delivery date promise (the "Get it by" date, countdown timer, Promised Delivery Date) | [report](product-teardowns/2026-07-25-amazon-delivery-date-promise.md) |
