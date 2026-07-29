@@ -59,6 +59,8 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 43 | 2026-07-29 | Real-time OLAP at scale: how LinkedIn's Pinot (born from "Who's Viewed Your Profile") and Uber's Neutrino answer 250,000+ QPS / 500M+ queries a day over billions of rows via columnar segments, the star-tree pre-aggregation index, and replica groups that bound scatter-gather tail latency | [lesson](lessons/043-realtime-olap-pinot-star-tree.md) |
+| 42 | 2026-07-28 | Kafka's partitioned commit log at LinkedIn scale: 7 trillion messages/day across ~7 million partitions, leader/ISR replication, consumer-group offset ownership, log compaction, and the rebalancing-storm feedback loop | [lesson](lessons/042-kafka-partitioned-commit-log.md) |
 | 41 | 2026-07-27 | Distributed file systems: how Google split GFS's single metadata master into Colossus's sharded curators (backed by Bigtable) to scale storage 100x past the largest GFS clusters, chunk leases, D servers, custodians, and flash/disk tiering | [lesson](lessons/041-distributed-file-systems-gfs-colossus.md) |
 | 40 | 2026-07-24 | Stream processing exactly-once semantics: Alibaba's Flink dashboards at 583,000 orders/sec, Chandy-Lamport checkpoint barriers, watermarks for out-of-order event time, and why aligned checkpoints stall under backpressure | [lesson](lessons/040-stream-processing-exactly-once-watermarks.md) |
 | 39 | 2026-07-23 | Distributed tracing and sampling at scale: Dapper's adaptive rate-based sampling, Jaeger's context propagation and tail-based sampling, why the observability path must never block the request it's observing | [lesson](lessons/039-distributed-tracing-sampling-at-scale.md) |
