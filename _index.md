@@ -60,6 +60,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 44 | 2026-07-30 | Discord's guild actor model: how a single Erlang process handling one chat room scaled from a 1M-member ceiling to Midjourney's 21M-member guild via passive/active fan-out tiering, Manifold's batched sends, and a Rust-backed member list | [lesson](lessons/044-discord-gateway-actor-model-guild-scaling.md) |
 | 43 | 2026-07-29 | Real-time OLAP at scale: how LinkedIn's Pinot (born from "Who's Viewed Your Profile") and Uber's Neutrino answer 250,000+ QPS / 500M+ queries a day over billions of rows via columnar segments, the star-tree pre-aggregation index, and replica groups that bound scatter-gather tail latency | [lesson](lessons/043-realtime-olap-pinot-star-tree.md) |
 | 42 | 2026-07-28 | Kafka's partitioned commit log at LinkedIn scale: 7 trillion messages/day across ~7 million partitions, leader/ISR replication, consumer-group offset ownership, log compaction, and the rebalancing-storm feedback loop | [lesson](lessons/042-kafka-partitioned-commit-log.md) |
 | 41 | 2026-07-27 | Distributed file systems: how Google split GFS's single metadata master into Colossus's sharded curators (backed by Bigtable) to scale storage 100x past the largest GFS clusters, chunk leases, D servers, custodians, and flash/disk tiering | [lesson](lessons/041-distributed-file-systems-gfs-colossus.md) |
