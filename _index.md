@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-30 | Canva | Background Remover (the one-click "BG Remover" that cuts the subject out of a photo) | [report](product-teardowns/2026-07-30-canva-background-remover.md) |
 | 2026-07-29 | Figma | Auto Layout (the frame that stacks, spaces, and resizes its children automatically) | [report](product-teardowns/2026-07-29-figma-auto-layout.md) |
 | 2026-07-28 | Amazon | Shopping cart (the "Add to Cart" button and the always-available Dynamo store underneath) | [report](product-teardowns/2026-07-28-amazon-shopping-cart-dynamo.md) |
 | 2026-07-27 | Netflix | Continue Watching row and cross-device resume (viewing-history + bookmark engine) | [report](product-teardowns/2026-07-27-netflix-continue-watching.md) |
