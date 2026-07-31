@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-07-31 | Stripe | Webhooks (the event delivery system: the Event object, the signed POST, retries with backoff, at-least-once delivery) | [report](product-teardowns/2026-07-31-stripe-webhooks-event-delivery.md) |
 | 2026-07-30 | Canva | Background Remover (the one-click "BG Remover" that cuts the subject out of a photo) | [report](product-teardowns/2026-07-30-canva-background-remover.md) |
 | 2026-07-29 | Figma | Auto Layout (the frame that stacks, spaces, and resizes its children automatically) | [report](product-teardowns/2026-07-29-figma-auto-layout.md) |
 | 2026-07-28 | Amazon | Shopping cart (the "Add to Cart" button and the always-available Dynamo store underneath) | [report](product-teardowns/2026-07-28-amazon-shopping-cart-dynamo.md) |
