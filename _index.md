@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-02 | Notion | Databases and database views (table/board/calendar, filters/sorts, the collection data model + Postgres sharding) | [report](product-teardowns/2026-08-02-notion-databases-and-views.md) |
 | 2026-08-01 | Razorpay | UPI payments (the checkout method: intent vs collect, the async switch, deemed success, reconciliation) | [report](product-teardowns/2026-08-01-razorpay-upi-payments.md) |
 | 2026-07-31 | Stripe | Webhooks (the event delivery system: the Event object, the signed POST, retries with backoff, at-least-once delivery) | [report](product-teardowns/2026-07-31-stripe-webhooks-event-delivery.md) |
 | 2026-07-30 | Canva | Background Remover (the one-click "BG Remover" that cuts the subject out of a photo) | [report](product-teardowns/2026-07-30-canva-background-remover.md) |
