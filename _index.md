@@ -64,6 +64,7 @@ Daily system-design lessons, newest first.
 
 | Day | Date | Topic | Lesson |
 |-----|------|-------|--------|
+| 46 | 2026-08-03 | Distributed SQL joins across shards: Google F1's hierarchical schema over Spanner for the 100+TB AdWords database, Vitess/PlanetScale's vtgate nested-loop join engine (one query per left-row by default), Citus colocated vs repartition joins, and CockroachDB's DistSQL hash/merge/lookup join strategies | [lesson](lessons/046-distributed-joins-across-shards.md) |
 | 45 | 2026-08-02 | Global and secondary indexes in sharded databases: Uber Schemaless's 4,096-shard trip datastore, DynamoDB GSI hot-partition backpressure onto the base table, Vitess consistent lookup Vindexes (SELECT FOR UPDATE instead of 2PC), and Spanner's interleaved indexes | [lesson](lessons/045-secondary-indexes-sharded-databases.md) |
 | 44 | 2026-07-31 | LLM inference serving at scale: Character.AI's ~20,000 QPS chat stack, vLLM's PagedAttention cutting KV-cache waste from 60-80% to under 4%, and continuous/iteration-level batching | [lesson](lessons/044-llm-inference-serving-continuous-batching.md) |
 | 43 | 2026-07-29 | Real-time OLAP at scale: how LinkedIn's Pinot (born from "Who's Viewed Your Profile") and Uber's Neutrino answer 250,000+ QPS / 500M+ queries a day over billions of rows via columnar segments, the star-tree pre-aggregation index, and replica groups that bound scatter-gather tail latency | [lesson](lessons/043-realtime-olap-pinot-star-tree.md) |
