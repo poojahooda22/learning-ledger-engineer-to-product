@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-04 | YouTube | Automatic captions (the ASR pipeline: speech to timed text, WFST decoding + RNN-T, plus auto-alignment) | [report](product-teardowns/2026-08-04-youtube-automatic-captions.md) |
 | 2026-08-03 | Spotify | Spotify Connect (device handoff: tap a speaker and playback follows you, control plane split from data plane) | [report](product-teardowns/2026-08-03-spotify-connect-device-handoff.md) |
 | 2026-08-02 | Notion | Databases and database views (table/board/calendar, filters/sorts, the collection data model + Postgres sharding) | [report](product-teardowns/2026-08-02-notion-databases-and-views.md) |
 | 2026-08-01 | Razorpay | UPI payments (the checkout method: intent vs collect, the async switch, deemed success, reconciliation) | [report](product-teardowns/2026-08-01-razorpay-upi-payments.md) |
