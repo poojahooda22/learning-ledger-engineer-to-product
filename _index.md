@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-05 | Google Search | Knowledge Panel and the Knowledge Graph behind it (things not strings: the entity graph, entity linking, Knowledge Vault) | [report](product-teardowns/2026-08-05-google-search-knowledge-panel.md) |
 | 2026-08-04 | YouTube | Automatic captions (the ASR pipeline: speech to timed text, WFST decoding + RNN-T, plus auto-alignment) | [report](product-teardowns/2026-08-04-youtube-automatic-captions.md) |
 | 2026-08-03 | Spotify | Spotify Connect (device handoff: tap a speaker and playback follows you, control plane split from data plane) | [report](product-teardowns/2026-08-03-spotify-connect-device-handoff.md) |
 | 2026-08-02 | Notion | Databases and database views (table/board/calendar, filters/sorts, the collection data model + Postgres sharding) | [report](product-teardowns/2026-08-02-notion-databases-and-views.md) |
