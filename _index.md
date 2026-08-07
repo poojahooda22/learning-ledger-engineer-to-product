@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-07 | Instagram | Reels recommendation and ranking (the vertical video feed of strangers: retrieval funnel, two-tower ANN, first-stage distillation, second-stage MTML, the value model, watch time over likes) | [report](product-teardowns/2026-08-07-instagram-reels-recommendation-ranking.md) |
 | 2026-08-06 | Netflix | Personalized homepage (the grid of rows: which titles fill each row, the order within a row, and the order of the rows themselves; PVR, Top-N, Trending, BYW, page generation, GenPage) | [report](product-teardowns/2026-08-06-netflix-homepage-rows.md) |
 | 2026-08-05 | Google Search | Knowledge Panel and the Knowledge Graph behind it (things not strings: the entity graph, entity linking, Knowledge Vault) | [report](product-teardowns/2026-08-05-google-search-knowledge-panel.md) |
 | 2026-08-04 | YouTube | Automatic captions (the ASR pipeline: speech to timed text, WFST decoding + RNN-T, plus auto-alignment) | [report](product-teardowns/2026-08-04-youtube-automatic-captions.md) |
