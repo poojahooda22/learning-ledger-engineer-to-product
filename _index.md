@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-12 | Amazon | Buy Box / Featured Offer (the box that decides which of many competing sellers sits behind "Buy Now": the eligibility gate, the landed-price + delivery-speed + seller-metric scoring, the 2025 fulfillment-neutral shift, per-ASIN precompute-and-cache, and rotation among near-ties) | [report](product-teardowns/2026-08-12-amazon-buy-box-featured-offer.md) |
 | 2026-08-11 | WhatsApp | Multi-device (companion devices with their own Signal identity, client-fanout encryption to N devices, Automatic Device Verification, and App State Sync via the LTHash homomorphic hash) | [report](product-teardowns/2026-08-11-whatsapp-multi-device.md) |
 | 2026-08-10 | Gmail | Conversation threading (how loose emails become one conversation: Message-ID/In-Reply-To/References headers, the JWZ Container forest built through one id_table hash map, dummy containers for out-of-order/missing mail, loop guard, pruning, subject merge, and Gmail's write-time threadId assignment) | [report](product-teardowns/2026-08-10-gmail-conversation-threading.md) |
 | 2026-08-09 | Stripe | Checkout (the hosted pay page: which payment methods appear and in what order, the PaymentIntent state machine, and 3D Secure authentication underneath) | [report](product-teardowns/2026-08-09-stripe-checkout.md) |
