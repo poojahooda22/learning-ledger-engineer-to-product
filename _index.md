@@ -4,6 +4,7 @@ All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
 |------|---------|---------|--------|
+| 2026-08-14 | Netflix | Skip Intro (the one-tap button past the theme song, plus Skip Recap / Skip Credits / Next Episode: intros repeat across a season, so find the repetition with Shazam-style audio fingerprinting, verify with computer vision + shot boundaries, do it all offline on Archer/Cosmos, and ship the player two timestamps) | [report](product-teardowns/2026-08-14-netflix-skip-intro.md) |
 | 2026-08-13 | Razorpay | Magic Checkout (one-click checkout: the shared 100M-shopper network address prefill keyed off a verified phone identity, and the real-time COD Return-to-Origin risk model, grown from the acquired Thirdwatch engine, that decides whether Cash on Delivery is offered, nudged to prepaid, or blocked) | [report](product-teardowns/2026-08-13-razorpay-magic-checkout-rto.md) |
 | 2026-08-12 | Amazon | Buy Box / Featured Offer (the box that decides which of many competing sellers sits behind "Buy Now": the eligibility gate, the landed-price + delivery-speed + seller-metric scoring, the 2025 fulfillment-neutral shift, per-ASIN precompute-and-cache, and rotation among near-ties) | [report](product-teardowns/2026-08-12-amazon-buy-box-featured-offer.md) |
 | 2026-08-11 | WhatsApp | Multi-device (companion devices with their own Signal identity, client-fanout encryption to N devices, Automatic Device Verification, and App State Sync via the LTHash homomorphic hash) | [report](product-teardowns/2026-08-11-whatsapp-multi-device.md) |
