@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-18 | System design Day 92 | Exchange matching engine: sequencer, in-memory order book, deterministic replay | [lessons/092](lessons/092-exchange-matching-engine-sequencer-order-book-deterministic-replay.md) |
 | 2026-10-17 | System design Day 91 | Code search: trigram inverted index, sharding by content hash, verify-then-rank | [lessons/091](lessons/091-code-search-trigram-index-sharded-by-content.md) |
 |------|---------|---------|--------|
 | 2026-10-18 | [Daily Viral Tech Report](daily-tech-reports/2026-10-18-daily-viral-tech-report.md) |
