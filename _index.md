@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-19 | System design Day 93 | Object storage strong consistency: metadata vs bytes, witness read barrier, pointer-last publish (S3, R2) | [lessons/093](lessons/093-object-storage-strong-consistency-s3-r2-metadata-witness.md) |
 | 2026-10-18 | System design Day 92 | Exchange matching engine: sequencer, in-memory order book, deterministic replay | [lessons/092](lessons/092-exchange-matching-engine-sequencer-order-book-deterministic-replay.md) |
 | 2026-10-17 | System design Day 91 | Code search: trigram inverted index, sharding by content hash, verify-then-rank | [lessons/091](lessons/091-code-search-trigram-index-sharded-by-content.md) |
 |------|---------|---------|--------|
