@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-22 | System design Day 95 | Remote build cache and incremental computation: action key, action cache plus CAS, hermeticity, early cutoff (Bazel, Turborepo, Nx, Salsa) | [lessons/095](lessons/095-remote-build-cache-incremental-computation-content-addressed-actions.md) |
 | 2026-10-22 | [Daily Viral Tech Report](daily-tech-reports/2026-10-22-daily-viral-tech-report.md) |
 | 2026-10-22 | Google Search | People Also Ask (the expandable related-questions accordion): a precomputed question graph walked one lazy hop at a time, answers extracted by the Featured Snippet / BERT passage machinery. NOT Featured Snippets (08-20), NOT Knowledge Panel (08-05), NOT core ranking (10-10), NOT autocomplete (06-16) | [product-teardowns/2026-10-22](product-teardowns/2026-10-22-google-search-people-also-ask.md) |
 | 2026-10-20 | System design Day 94 | QUIC and HTTP/3 at the edge: 1-RTT handshake, 0-RTT replay price, independent streams, connection ID migration (Google, Meta, Cloudflare) | [lessons/094](lessons/094-quic-http3-edge-handshake-streams-migration.md) |
