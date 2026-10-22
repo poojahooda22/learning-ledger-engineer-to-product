@@ -86,7 +86,7 @@ Annotations:
 2. **Memoization with a correct key.** Cache `f(inputs) -> outputs`, keyed by a hash of EVERYTHING `f` reads. The whole difficulty is the word everything.
 3. **Hermeticity (declared inputs only).** An action may read only what it declares. Not the clock, not the network, not an undeclared env var. If it cheats, the key lies. Bazel sandboxes actions to enforce this (CONFIRMED in concept: non-hermetic inputs cause unexpected misses or poisoned results).
 4. **Early cutoff (a.k.a. backdating, "green").** If an upstream step re-ran but produced byte-identical output, downstream steps need NOT re-run. Salsa and rustc do this: a query is green if its result hash did not change after re-execution (CONFIRMED, rustc dev guide excerpt). Example: you edit a comment in `math.c`; it recompiles, the `.o` file is identical, so linking and tests are skipped.
-5. **Layered caches.** Laptop disk, then team remote cache, then peer cache. Each layer is bigger and slower. Same idea as L1/L2 in Day 3 but for work.
+5. **Layered caches.** Laptop disk, then team remote cache, then peer cache. Each layer is bigger and slower. Same idea as L1/L2 in Day 19 but for work.
 6. **Revision counters and durability (Salsa).** A global revision number bumps on each input change. Each cached value remembers the revision it was verified at. Inputs that rarely change (like the standard library) are marked high durability so a change to a low-durability file (the one you are typing in) skips checking them at all (CONFIRMED, Salsa docs excerpt).
 
 ---
