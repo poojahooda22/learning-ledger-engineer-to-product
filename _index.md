@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-22 | Google Search | People Also Ask (the expandable related-questions accordion): a precomputed question graph walked one lazy hop at a time, answers extracted by the Featured Snippet / BERT passage machinery. NOT Featured Snippets (08-20), NOT Knowledge Panel (08-05), NOT core ranking (10-10), NOT autocomplete (06-16) | [product-teardowns/2026-10-22](product-teardowns/2026-10-22-google-search-people-also-ask.md) |
 | 2026-10-20 | System design Day 94 | QUIC and HTTP/3 at the edge: 1-RTT handshake, 0-RTT replay price, independent streams, connection ID migration (Google, Meta, Cloudflare) | [lessons/094](lessons/094-quic-http3-edge-handshake-streams-migration.md) |
 | 2026-10-19 | System design Day 93 | Object storage strong consistency: metadata vs bytes, witness read barrier, pointer-last publish (S3, R2) | [lessons/093](lessons/093-object-storage-strong-consistency-s3-r2-metadata-witness.md) |
 | 2026-10-18 | System design Day 92 | Exchange matching engine: sequencer, in-memory order book, deterministic replay | [lessons/092](lessons/092-exchange-matching-engine-sequencer-order-book-deterministic-replay.md) |
