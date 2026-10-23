@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-23 | System design Day 96 | Congestion control and BBR: bufferbloat, bandwidth-delay product, slow start, pacing, BBRv3 fairness (YouTube, Google, CUBIC vs BBR) | [lessons/096](lessons/096-congestion-control-bbr-bufferbloat-pacing.md) |
 | 2026-10-23 | [Daily Viral Tech Report](daily-tech-reports/2026-10-23-daily-viral-tech-report.md) |
 | 2026-10-22 | System design Day 95 | Remote build cache and incremental computation: action key, action cache plus CAS, hermeticity, early cutoff (Bazel, Turborepo, Nx, Salsa) | [lessons/095](lessons/095-remote-build-cache-incremental-computation-content-addressed-actions.md) |
 | 2026-10-22 | [Daily Viral Tech Report](daily-tech-reports/2026-10-22-daily-viral-tech-report.md) |
