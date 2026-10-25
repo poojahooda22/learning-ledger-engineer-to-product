@@ -3,6 +3,7 @@
 All product teardowns, newest first.
 
 | Date | Product | Feature | Report |
+| 2026-10-25 | System design Day 98 | Persistent-connection gateways and reconnect storms: cheap idle sockets, session outlives socket, resume ids, jittered backoff, admission control, two-level fanout (WhatsApp, Discord, Slack Flannel, Supabase Realtime) | [lessons/098](lessons/098-persistent-connection-gateways-websocket-reconnect-storms.md) |
 | 2026-10-25 | [Daily Viral Tech Report](daily-tech-reports/2026-10-25-daily-viral-tech-report.md) |
 | 2026-10-25 | Netflix | The non-personalized "Top 10 in [Country] Today" row (the big red 1-to-10 numbers): the one home-screen row identical for everyone in a country, so the problem flips from ranking-your-taste to pure COUNTING a firehose of play events. Catalog is tiny (18,000 titles), enemy is the stream (~100B hours/6mo); offline-think/online-lookup writes ten IDs per country, TV reads ten and draws numbers. Count-Min Sketch + min-heap (approximate, fresh, in-app) vs exact batch (audited weekly headline). Keystone = Kafka + Flink. | [product-teardowns/2026-10-25-netflix-top-10-row.md](product-teardowns/2026-10-25-netflix-top-10-row.md) |
 | 2026-10-24 | System design Day 97 | Feature stores and training-serving skew: define once, point-in-time joins, offline vs online store, log what you served (Uber Palette, DoorDash, Feast) | [lessons/097](lessons/097-feature-store-training-serving-skew-point-in-time.md) |
